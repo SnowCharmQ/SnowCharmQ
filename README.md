@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning JavaWeb, Spring-Framework, and Artificial Intelligence
 
-- 👯 I got full scores in almost all my projects
+- 👯 I got full scores in almost all my group projects
 
 - 📫 **QQ:** 619022098 **Mail:** 12013006@mail.sustech.edu.cn
 
