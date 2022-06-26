@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+!++I'm+SnowCharm+!;Welcome+To+My+GitHub+!;Looking+Forward+To+Your+Advice+!)]()
+![](https://readme-typing-svg.herokuapp.com?lines=Hi+!+I'm+SnowCharm+!;Welcome+To+My+GitHub+!;Looking+Forward+To+Your+Advice+!)
 
 ![](https://img.shields.io/badge/status-coding-brightgreen) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Olin66_README.md&left_color=&right_color=blue)
 
