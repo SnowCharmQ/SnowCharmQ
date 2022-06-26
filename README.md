@@ -1,20 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Olin66/Olin66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+!++I'm+SnowCharm+!;Welcome+To+My+GitHub+!;Looking+Forward+To+Your+Advice+!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/status-coding-brightgreen) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Olin66_README.md&left_color=&right_color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Weakness and ignorance are not barriers to survival, but arrogance is.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+!++I'm+SnowCharm;Welcome+To+My+Github+!;Looking+Forward+To+Your+Advice+!)](https://git.io/typing-svg)
+- 😄 I'm currently a student of SUSTech
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Olin66&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+- 🌱 I’m currently learning JavaWeb, Spring-Framework, and Artificial Intelligence
+
+- 👯 I got full scores in almost all my projects
+
+- 📫 **QQ:** 619022098 **Mail:** 12013006@mail.sustech.edu.cn
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olin66&langs_count=12&layout=compact&show_icons=true&theme=tokyonight&hide=less,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Olin66&repo=2022-Spring-Database-Project2&show_icons=true&theme=tokyonight)](https://github.com/Olin66/2022-Spring-Database-Project2)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Olin66&repo=2022-Spring-Java2-Project&show_icons=true&theme=tokyonight)](https://github.com/Olin66/2022-Spring-Java2-Project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Olin66&repo=2022-Spring-C-and-Cpp-Project-Matrix&show_icons=true&theme=tokyonight)](https://github.com/Olin66/2022-Spring-C-and-Cpp-Project-Matrix)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Olin66&repo=2021-Fall-DSAA-A&show_icons=true&theme=tokyonight)](https://github.com/Olin66/2021-Fall-DSAA-A)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olin66&show_icons=true&theme=tokyonight)
+
