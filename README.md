@@ -8,7 +8,9 @@
 
 - 😄 I'm currently a student of SUSTech
 
-- 🌱 I’m currently learning Java Web, Spring-Framework, and Artificial Intelligence
+- 🌱 I’m currently learning Digital Logic, Discrete Mathematics, Computer Networks, Object-oriented Analysis and Design, and Artificial Intelligence.
+
+- ✨ Group Project: OCT 3D reconstruction based on two-dimensional color fundus photography
 
 - 👯 I got full scores in almost all my group projects
 
