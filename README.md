@@ -2,6 +2,8 @@
 
 ![](https://readme-typing-svg.herokuapp.com?lines=Hi+!+I'm+SnowCharm+!;Welcome+To+My+GitHub+!;Looking+Forward+To+Your+Advice+!) 
 
+![](https://img.shields.io/badge/status-coding-brightgreen) 
+
 - ⚡ Weakness and ignorance are not barriers to survival, but arrogance is.
 
 - 😄 I'm currently a student of SUSTech
@@ -12,7 +14,7 @@
 
 - 👯 I got full scores in almost all my group projects
 
-- 📫![](https://img.shields.io/badge/status-coding-brightgreen) **QQ:** 619022098 **Mail:** 12013006@mail.sustech.edu.cn 
+- 📫 **QQ:** 619022098 **Mail:** 12013006@mail.sustech.edu.cn 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowCharmQ&langs_count=12&layout=compact&show_icons=true&theme=tokyonight&hide=less,SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
