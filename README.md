@@ -8,7 +8,7 @@
 
 - 😄 I'm currently a student of SUSTech
 
-- 🌱 I’m currently learning Digital Logic, Discrete Mathematics, Computer Networks, Object-oriented Analysis and Design, and Artificial Intelligence.
+- 🌱 I’m currently learning Digital Logic, Discrete Mathematics, Computer Networks, Object-Oriented Analysis and Design, and Artificial Intelligence.
 
 - ✨ Group Project: OCT 3D reconstruction based on two-dimensional color fundus photography
 
