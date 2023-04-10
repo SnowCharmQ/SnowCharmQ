@@ -8,11 +8,9 @@
 
 - 😄 I'm currently a student of SUSTech
 
-- 🌱 I’m currently learning Digital Logic, Discrete Mathematics, Computer Networks, Object-Oriented Analysis and Design, and Artificial Intelligence.
+- 🌱 I’m currently learning Computer Organization, Computer Operating Systems, Software Engineering, and Deep Learning
 
-- ✨ Group Project: OCT 3D reconstruction based on two-dimensional color fundus photography
-
-- 👯 I got full scores in almost all my group projects
+- ✨ Group Project: Semi-Supervised Retinal Image Vessel Segmentation
 
 - 📫 **QQ:** 619022098 **Mail:** 12013006@mail.sustech.edu.cn 
 
