@@ -8,11 +8,11 @@
 
 - 😄 I'm currently a student of SUSTech
 
-- 🌱 I’m currently learning Computer Organization, Computer Operating Systems, Software Engineering, and Deep Learning
+- 🌱 I’m currently learning **Computer Vision** and **Computer Graphics**
 
 - ✨ Group Project: Semi-Supervised Retinal Image Vessel Segmentation
 
-- 📫 **QQ:** 619022098 **Mail:** 12013006@mail.sustech.edu.cn 
+- 📫 **Mail:** 12013006@mail.sustech.edu.cn / 619022098@qq.com / snowcharmqq@gmail.com
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowCharmQ&langs_count=16&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
