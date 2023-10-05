@@ -8,7 +8,7 @@
 
 - 😄 I'm currently a student of SUSTech
 
-- 🌱 I’m currently learning **Computer Vision** and **Computer Graphics**
+- 🌱 I’m currently learning **Rust**, **Compilers**, **Computer Vision** and **Computer Graphics**
 
 - ✨ Group Project: Semi-Supervised Retinal Image Vessel Segmentation
 
