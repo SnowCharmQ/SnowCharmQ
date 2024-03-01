@@ -46,6 +46,7 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="fig/tensorflow.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="fig/opencv.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="fig/keras.png" alt="Keras" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="fig/unity.png" alt="Unity" height="50" /></a>  
 </div>
 </td>
 </tr>
