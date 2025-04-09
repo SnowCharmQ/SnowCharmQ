@@ -5,7 +5,7 @@
 
 - ⚡ Weakness and ignorance are not barriers to survival, but arrogance is.
 
-- 😄 I'm currently a student at National University of Singapore.
+- 😄 I'm currently a student at the National University of Singapore.
 
 - 🌱 I'm currently conducting research in **LLM Personalization**.
 
