@@ -7,6 +7,6 @@
 
 - 😄 I'm currently a Master's student at the National University of Singapore.
 
-- 🌱 I'm currently conducting research in **Personalization in Generative Models**.
+- 🌱 I'm currently conducting research in **Personalization in Large Foundation Models**.
 
 - 📫 **Mail:** qiuyilun@u.nus.edu / qiuyl2020@mail.sustech.edu.cn / snowcharmqq@gmail.com
